@@ -5,7 +5,7 @@
     <h2>Tomcat server.admin is kim.. Hello </h2>
     <hr>
     <h1>${msg}</h1>
-    <h1>my name is kim... who are you..</h1>
+    <h1>my name is kim... who are you.. i</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.1</h3>
 </body>
